@@ -136,4 +136,4 @@ Verilog HDL · Xilinx Vivado · Icarus Verilog · Artix-7 FPGA
 
 **K Shobith Kumar**
 B.E. Electronics and Communication Engineering, Dayananda Sagar Academy of Technology and Management, Bengaluru
-[LinkedIn](https://linkedin.com/in/shobith-kumar-2419ab2a2) · shobithgowda33@gmail.com
+[LinkedIn](www.linkedin.com/in/k-shobith-kumar) · shobithgowda33@gmail.com
