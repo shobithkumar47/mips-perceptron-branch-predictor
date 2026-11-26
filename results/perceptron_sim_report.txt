@@ -1,0 +1,36 @@
+==========================================================
+     16-BIT MIPS + PERCEPTRON PREDICTOR PERFORMANCE REPORT 
+==========================================================
+
+--------------- CLOCK PERFORMANCE -----------------------
+Clock Period              = 10.00 ns
+Clock Frequency           = 100.00 MHz
+
+--------------- EXECUTION PERFORMANCE ------------------
+Total Clock Cycles        = 81
+Instructions Retired      = 63
+CPI                       = 1.286
+Execution Time            = 810.00 ns
+IPC                       = 0.778
+Throughput                = 77.778 MIPS
+
+--------------- BRANCH PERFORMANCE ---------------------
+Total Branches            = 8
+Taken Branches            = 6
+Not-Taken Branches        = 2
+
+--------------- PERCEPTRON PREDICTION ------------------
+Correct Predictions       = 5
+Mispredictions            = 3
+Prediction Accuracy       = 62.50 %
+Misprediction Rate        = 37.50 %
+Final Weights             = w1 2, w2 4, bias 4
+HW counters (in the CPU)  = 8 branches, 3 mispredictions
+
+--------------- PIPELINE PERFORMANCE -------------------
+Pipeline Stall Cycles     = 9
+Branch/Jump Flushes       = 6
+Forwarding Events         = 16
+
+==========================================================
+                    TEST PASSED                           

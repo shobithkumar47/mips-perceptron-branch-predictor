@@ -1,0 +1,29 @@
+==========================================================
+          16-BIT BASELINE MIPS PERFORMANCE REPORT         
+==========================================================
+
+--------------- CLOCK PERFORMANCE -----------------------
+Clock Period              = 10.00 ns
+Clock Frequency           = 100.00 MHz
+
+--------------- EXECUTION PERFORMANCE ------------------
+Total Clock Cycles        = 84
+Instructions Retired      = 63
+CPI                       = 1.333
+Execution Time            = 840.00 ns
+IPC                       = 0.750
+Throughput                = 75.000 MIPS
+
+--------------- BRANCH PERFORMANCE ---------------------
+Total Branches            = 8
+Taken Branches            = 6
+Not-Taken Branches        = 2
+Static not-taken accuracy = 25.00 %
+
+--------------- PIPELINE PERFORMANCE -------------------
+Pipeline Stall Cycles     = 9
+Branch/Jump Flushes       = 9
+Forwarding Events         = 16
+
+==========================================================
+                    TEST PASSED                           
